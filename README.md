@@ -21,4 +21,4 @@ This repository contains a simple sample code intended to demonstrate the capabi
 The code supplied here is covered under the MIT Open Source License.
 
 [1]: https://developer.android.com/jetpack/androidx/releases/viewpager2#androidx-deps
-[2]: hhttps://developer.android.com/reference/androidx/viewpager2/adapter/FragmentStateAdapter
+[2]: https://developer.android.com/reference/androidx/viewpager2/adapter/FragmentStateAdapter
